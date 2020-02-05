@@ -12,8 +12,4 @@ public class App {
     public String getGreetingPatrik() {
         return "Hello world, Patrik!";
     }
-
-    public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
-    }
 }
