@@ -1,7 +1,7 @@
 package demo;
 
 /*
- * This is the main class for the App-.
+ * This is the main class for the App.
  */
 public class AppMain {
 
